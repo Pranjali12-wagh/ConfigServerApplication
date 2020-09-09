@@ -1,0 +1,2 @@
+# ConfigServerApplication
+config-server
